@@ -24,3 +24,4 @@ In case the answer is zero we make calls to authorative server to return a resol
 In case the resolved answer is a CNAME (Canonical name) rather than an IP address, we would again make calls with this CNAME, to the root server, to return us the IP address in one of the subsequent calls.
 
 
+# dns-resolver
